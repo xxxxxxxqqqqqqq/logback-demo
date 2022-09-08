@@ -1,0 +1,75 @@
+2022-09-07 16:50:47.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:50:48.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:50:49.008 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:50:50.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:50:51.005 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:50:52.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:50:52.095 [SpringApplicationShutdownHook] DEBUG o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@50eca7c6, started on Wed Sep 07 16:50:45 PST 2022
+2022-09-07 16:50:52.096 [SpringApplicationShutdownHook] DEBUG o.s.b.c.p.s.ConfigurationPropertySourcesPropertyResolver$DefaultResolver - Found key 'spring.liveBeansView.mbeanDomain' in PropertySource 'systemProperties' with value of type String
+2022-09-07 16:50:52.097 [SpringApplicationShutdownHook] DEBUG o.s.context.support.DefaultLifecycleProcessor - Stopping beans in phase -2147483647
+2022-09-07 16:50:52.097 [SpringApplicationShutdownHook] DEBUG o.s.context.support.DefaultLifecycleProcessor - Bean 'springBootLoggingLifecycle' completed its stop procedure
+2022-09-07 16:50:52.098 [SpringApplicationShutdownHook] DEBUG o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+2022-09-07 16:50:52.098 [SpringApplicationShutdownHook] DEBUG o.s.jmx.export.annotation.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+2022-09-07 16:52:23.900 [main] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - Running with Spring Boot v2.7.4-SNAPSHOT, Spring v5.3.22
+2022-09-07 16:52:23.900 [main] DEBUG org.springframework.boot.SpringApplication - Loading source class com.ethan.logbackdemo.LogbackDemoApplication
+2022-09-07 16:52:23.914 [main] DEBUG o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@376a312c
+2022-09-07 16:52:23.918 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2022-09-07 16:52:23.922 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory'
+2022-09-07 16:52:24.022 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'propertySourcesPlaceholderConfigurer'
+2022-09-07 16:52:24.024 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.sql.init.dependency.DatabaseInitializationDependencyConfigurer$DependsOnDatabaseInitializationPostProcessor'
+2022-09-07 16:52:24.026 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2022-09-07 16:52:24.026 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'forceAutoProxyCreatorToUseClassProxying'
+2022-09-07 16:52:24.027 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2022-09-07 16:52:24.028 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2022-09-07 16:52:24.028 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2022-09-07 16:52:24.029 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor'
+2022-09-07 16:52:24.029 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.context.internalConfigurationPropertiesBinder'
+2022-09-07 16:52:24.029 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.context.internalConfigurationPropertiesBinderFactory'
+2022-09-07 16:52:24.030 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalScheduledAnnotationProcessor'
+2022-09-07 16:52:24.030 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.scheduling.annotation.SchedulingConfiguration'
+2022-09-07 16:52:24.033 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2022-09-07 16:52:24.040 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'logbackDemoApplication'
+2022-09-07 16:52:24.045 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.AutoConfigurationPackages'
+2022-09-07 16:52:24.045 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration'
+2022-09-07 16:52:24.046 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration'
+2022-09-07 16:52:24.047 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'spring.jmx-org.springframework.boot.autoconfigure.jmx.JmxProperties'
+2022-09-07 16:52:24.048 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.context.properties.BoundConfigurationProperties'
+2022-09-07 16:52:24.055 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Autowiring by type from bean name 'org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration' via constructor to bean named 'spring.jmx-org.springframework.boot.autoconfigure.jmx.JmxProperties'
+2022-09-07 16:52:24.056 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'mbeanExporter'
+2022-09-07 16:52:24.056 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'objectNamingStrategy'
+2022-09-07 16:52:24.057 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Autowiring by type from bean name 'mbeanExporter' via factory method to bean named 'objectNamingStrategy'
+2022-09-07 16:52:24.057 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Autowiring by type from bean name 'mbeanExporter' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@2f66e802'
+2022-09-07 16:52:24.059 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'mbeanServer'
+2022-09-07 16:52:24.060 [main] DEBUG org.springframework.jmx.support.JmxUtils - Found MBeanServer: com.sun.jmx.mbeanserver.JmxMBeanServer@53f65459
+2022-09-07 16:52:24.063 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.context.properties.EnableConfigurationPropertiesRegistrar.methodValidationExcludeFilter'
+2022-09-07 16:52:24.064 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.admin.SpringApplicationAdminJmxAutoConfiguration'
+2022-09-07 16:52:24.064 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'springApplicationAdminRegistrar'
+2022-09-07 16:52:24.065 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Autowiring by type from bean name 'springApplicationAdminRegistrar' via factory method to bean named 'environment'
+2022-09-07 16:52:24.067 [main] DEBUG o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application Admin MBean registered with name 'org.springframework.boot:type=Admin,name=SpringApplication'
+2022-09-07 16:52:24.067 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.aop.AopAutoConfiguration$ClassProxyingConfiguration'
+2022-09-07 16:52:24.067 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.aop.AopAutoConfiguration'
+2022-09-07 16:52:24.068 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.availability.ApplicationAvailabilityAutoConfiguration'
+2022-09-07 16:52:24.068 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'applicationAvailability'
+2022-09-07 16:52:24.068 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.context.ConfigurationPropertiesAutoConfiguration'
+2022-09-07 16:52:24.069 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.context.LifecycleAutoConfiguration'
+2022-09-07 16:52:24.069 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'lifecycleProcessor'
+2022-09-07 16:52:24.069 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'spring.lifecycle-org.springframework.boot.autoconfigure.context.LifecycleProperties'
+2022-09-07 16:52:24.069 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Autowiring by type from bean name 'lifecycleProcessor' via factory method to bean named 'spring.lifecycle-org.springframework.boot.autoconfigure.context.LifecycleProperties'
+2022-09-07 16:52:24.070 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.info.ProjectInfoAutoConfiguration'
+2022-09-07 16:52:24.071 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'spring.info-org.springframework.boot.autoconfigure.info.ProjectInfoProperties'
+2022-09-07 16:52:24.071 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Autowiring by type from bean name 'org.springframework.boot.autoconfigure.info.ProjectInfoAutoConfiguration' via constructor to bean named 'spring.info-org.springframework.boot.autoconfigure.info.ProjectInfoProperties'
+2022-09-07 16:52:24.071 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.sql.init.SqlInitializationAutoConfiguration'
+2022-09-07 16:52:24.071 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'spring.sql.init-org.springframework.boot.autoconfigure.sql.init.SqlInitializationProperties'
+2022-09-07 16:52:24.072 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.task.TaskExecutionAutoConfiguration'
+2022-09-07 16:52:24.072 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'taskExecutorBuilder'
+2022-09-07 16:52:24.073 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'spring.task.execution-org.springframework.boot.autoconfigure.task.TaskExecutionProperties'
+2022-09-07 16:52:24.073 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Autowiring by type from bean name 'taskExecutorBuilder' via factory method to bean named 'spring.task.execution-org.springframework.boot.autoconfigure.task.TaskExecutionProperties'
+2022-09-07 16:52:24.075 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.task.TaskSchedulingAutoConfiguration'
+2022-09-07 16:52:24.075 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'taskScheduler'
+2022-09-07 16:52:24.076 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'taskSchedulerBuilder'
+2022-09-07 16:52:24.076 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'spring.task.scheduling-org.springframework.boot.autoconfigure.task.TaskSchedulingProperties'
+2022-09-07 16:52:24.076 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Autowiring by type from bean name 'taskSchedulerBuilder' via factory method to bean named 'spring.task.scheduling-org.springframework.boot.autoconfigure.task.TaskSchedulingProperties'
+2022-09-07 16:52:24.077 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Autowiring by type from bean name 'taskScheduler' via factory method to bean named 'taskSchedulerBuilder'
+2022-09-07 16:52:24.080 [main] DEBUG o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Initializing ExecutorService 'taskScheduler'
+2022-09-07 16:52:24.080 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'scheduledBeanLazyInitializationExcludeFilter'
+2022-09-07 16:52:24.082 [main] DEBUG o.s.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup

@@ -1,0 +1,13 @@
+2022-09-07 16:55:17.011 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:55:18.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:55:19.007 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:55:20.003 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:55:21.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:55:22.004 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:55:23.004 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:55:23.381 [SpringApplicationShutdownHook] DEBUG o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@2756c0a7, started on Wed Sep 07 16:55:15 PST 2022
+2022-09-07 16:55:23.381 [SpringApplicationShutdownHook] DEBUG o.s.b.c.p.s.ConfigurationPropertySourcesPropertyResolver$DefaultResolver - Found key 'spring.liveBeansView.mbeanDomain' in PropertySource 'systemProperties' with value of type String
+2022-09-07 16:55:23.382 [SpringApplicationShutdownHook] DEBUG o.s.context.support.DefaultLifecycleProcessor - Stopping beans in phase -2147483647
+2022-09-07 16:55:23.382 [SpringApplicationShutdownHook] DEBUG o.s.context.support.DefaultLifecycleProcessor - Bean 'springBootLoggingLifecycle' completed its stop procedure
+2022-09-07 16:55:23.383 [SpringApplicationShutdownHook] DEBUG o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+2022-09-07 16:55:23.383 [SpringApplicationShutdownHook] DEBUG o.s.jmx.export.annotation.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown

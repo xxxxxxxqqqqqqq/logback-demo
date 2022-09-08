@@ -1,0 +1,81 @@
+2022-09-07 16:52:25.010 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:26.007 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:27.005 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:28.002 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:29.005 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:30.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:31.002 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:32.005 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:33.004 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:34.002 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:35.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:36.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:37.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:38.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:39.005 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:40.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:41.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:42.003 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:43.009 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:44.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:45.007 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:46.003 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:47.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:48.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:49.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:50.005 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:51.005 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:52.005 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:53.004 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:54.005 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:55.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:56.003 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:57.003 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:58.004 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:52:59.005 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:53:00.007 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:53:01.004 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:53:02.003 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:53:03.005 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:53:04.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:53:05.006 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:53:06.005 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:53:07.005 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:53:08.008 [scheduling-1] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - debug===================
+2022-09-07 16:53:08.346 [SpringApplicationShutdownHook] DEBUG o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@376a312c, started on Wed Sep 07 16:52:23 PST 2022
+2022-09-07 16:53:08.346 [SpringApplicationShutdownHook] DEBUG o.s.b.c.p.s.ConfigurationPropertySourcesPropertyResolver$DefaultResolver - Found key 'spring.liveBeansView.mbeanDomain' in PropertySource 'systemProperties' with value of type String
+2022-09-07 16:53:08.348 [SpringApplicationShutdownHook] DEBUG o.s.context.support.DefaultLifecycleProcessor - Stopping beans in phase -2147483647
+2022-09-07 16:53:08.349 [SpringApplicationShutdownHook] DEBUG o.s.context.support.DefaultLifecycleProcessor - Bean 'springBootLoggingLifecycle' completed its stop procedure
+2022-09-07 16:53:08.349 [SpringApplicationShutdownHook] DEBUG o.s.scheduling.concurrent.ThreadPoolTaskScheduler - Shutting down ExecutorService 'taskScheduler'
+2022-09-07 16:53:08.350 [SpringApplicationShutdownHook] DEBUG o.s.jmx.export.annotation.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
+2022-09-07 16:53:10.776 [main] DEBUG com.ethan.logbackdemo.LogbackDemoApplication - Running with Spring Boot v2.7.4-SNAPSHOT, Spring v5.3.22
+2022-09-07 16:53:10.776 [main] DEBUG org.springframework.boot.SpringApplication - Loading source class com.ethan.logbackdemo.LogbackDemoApplication
+2022-09-07 16:53:10.798 [main] DEBUG o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@376a312c
+2022-09-07 16:53:10.804 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2022-09-07 16:53:10.811 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory'
+2022-09-07 16:53:10.994 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'propertySourcesPlaceholderConfigurer'
+2022-09-07 16:53:11.021 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.sql.init.dependency.DatabaseInitializationDependencyConfigurer$DependsOnDatabaseInitializationPostProcessor'
+2022-09-07 16:53:11.030 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2022-09-07 16:53:11.030 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'forceAutoProxyCreatorToUseClassProxying'
+2022-09-07 16:53:11.031 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2022-09-07 16:53:11.032 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2022-09-07 16:53:11.033 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2022-09-07 16:53:11.034 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor'
+2022-09-07 16:53:11.034 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.context.internalConfigurationPropertiesBinder'
+2022-09-07 16:53:11.042 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.context.internalConfigurationPropertiesBinderFactory'
+2022-09-07 16:53:11.062 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalScheduledAnnotationProcessor'
+2022-09-07 16:53:11.062 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.scheduling.annotation.SchedulingConfiguration'
+2022-09-07 16:53:11.069 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2022-09-07 16:53:11.086 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'logbackDemoApplication'
+2022-09-07 16:53:11.119 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.AutoConfigurationPackages'
+2022-09-07 16:53:11.120 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration'
+2022-09-07 16:53:11.121 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration'
+2022-09-07 16:53:11.122 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'spring.jmx-org.springframework.boot.autoconfigure.jmx.JmxProperties'
+2022-09-07 16:53:11.123 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'org.springframework.boot.context.properties.BoundConfigurationProperties'
+2022-09-07 16:53:11.135 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Autowiring by type from bean name 'org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration' via constructor to bean named 'spring.jmx-org.springframework.boot.autoconfigure.jmx.JmxProperties'
+2022-09-07 16:53:11.138 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'mbeanExporter'
+2022-09-07 16:53:11.139 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'objectNamingStrategy'
+2022-09-07 16:53:11.140 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Autowiring by type from bean name 'mbeanExporter' via factory method to bean named 'objectNamingStrategy'
+2022-09-07 16:53:11.140 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Autowiring by type from bean name 'mbeanExporter' via factory method to bean named 'org.springframework.beans.factory.support.DefaultListableBeanFactory@2f66e802'
+2022-09-07 16:53:11.142 [main] DEBUG o.s.b.factory.support.DefaultListableBeanFactory - Creating shared instance of singleton bean 'mbeanServer'
+2022-09-07 16:53:11.146 [main] DEBUG org.springframework.jmx.support.JmxUtils - Found MBeanServer: com.sun.jmx.mbeanserver.JmxMBeanServer@53f65459
